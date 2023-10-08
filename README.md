@@ -93,3 +93,8 @@ python bot.py
 
 <br>
 <em align='center'>Copyright (c) 2022-present <strong>Hash Minner</strong></em>
+
+
+<a href="https://heroku.com/deploy?template=https://github.com/alanwalkermusic64/UrlUploadDcBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
